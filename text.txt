@@ -1,1 +1,1 @@
-Random text
+Text file only for this project purposes
